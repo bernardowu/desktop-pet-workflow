@@ -1,0 +1,308 @@
+{
+  "author": "https://weibo.com/u/2623471650",
+  "assets": [
+    {
+      "path": "basket.gif",
+      "source_url": "https://media1.tenor.com/m/u5cUJvXOATYAAAAC/bubu-dudu-sseeyall.gif",
+      "page": "https://tenor.com/view/bubu-dudu-sseeyall-gif-13517294964141064502",
+      "format": "GIF",
+      "size": [
+        498,
+        498
+      ],
+      "frames": 4,
+      "sha256": "9b4288964aea4d47d001b7ff43a29452ecdcbc397195fa8a2ed6c46fcdf85038"
+    },
+    {
+      "path": "bubu-daze.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-daze.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        600,
+        600
+      ],
+      "frames": 3,
+      "sha256": "dbb8ea1717fe841282d1dbd2fc5db68867d5b7badb180170f596ab78dd2727ed"
+    },
+    {
+      "path": "bubu-desk.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-desk.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        600,
+        530
+      ],
+      "frames": 6,
+      "sha256": "7dc89563ff99555193bcf76d912ba610872ae267684b1e92108c19fc75e9d848"
+    },
+    {
+      "path": "bubu-doze.gif",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-doze.gif",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "GIF",
+      "size": [
+        1000,
+        1000
+      ],
+      "frames": 2,
+      "sha256": "dd757b54bc596a36af972d8f09a26668db3570f3639ec24541c16e330de2dc80"
+    },
+    {
+      "path": "bubu-hug.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-hug.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 39,
+      "sha256": "0e67e1b1c9ff67bd4fafc7d8728685db72838a8abacb527ea41ee509e5b2b49b"
+    },
+    {
+      "path": "bubu-peck.gif",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-peck.gif",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "GIF",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "sha256": "5f53d8c5275ead6d3abb5e83c08d70119626460ebe71afd76c20c0440e1ab5a7"
+    },
+    {
+      "path": "bubu-pout.gif",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-pout.gif",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "GIF",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 12,
+      "sha256": "538260f5032c7f253ef73ca978edfd08d3b4c15ff849da7083d2c3f17a6a5c1c"
+    },
+    {
+      "path": "bubu-rose.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-rose.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 18,
+      "sha256": "5d03feefbc3576930cb463a1b6c91b73193d20e95ed0ef4c7606c0b594fd599d"
+    },
+    {
+      "path": "jump.gif",
+      "source_url": "https://media1.tenor.com/m/HOLG_hTN8WsAAAAC/bubu-jumping-on-dudu-happy.gif",
+      "page": "https://tenor.com/view/bubu-jumping-on-dudu-happy-dudu-bubu-cute-gif-2081444772371624299",
+      "format": "GIF",
+      "size": [
+        200,
+        200
+      ],
+      "frames": 19,
+      "sha256": "526e24e0aff9d1c840a803f36be722672ed85a451672837f36f6476c671f6441"
+    },
+    {
+      "path": "laptop-alt.gif",
+      "source_url": "https://media1.tenor.com/m/2HUC8r12sCIAAAAC/bubu-bubu-dudu.gif",
+      "page": "https://tenor.com/view/bubu-bubu-dudu-love-cute-panda-gif-15597376126051594274",
+      "frames": 11,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "d15de42cee8da33a33e1e3e1090bd41ada605669179087a90186129bc8f6a79f"
+    },
+    {
+      "path": "laptop.gif",
+      "source_url": "https://media1.tenor.com/m/Q8WB73QIBPcAAAAC/bubududu-work.gif",
+      "page": "https://tenor.com/view/bubududu-work-gif-4883452236397020407",
+      "format": "GIF",
+      "size": [
+        360,
+        360
+      ],
+      "frames": 9,
+      "sha256": "0001fbacb49a81581c82c2d2cce450ef4cb65dc807bd09fe95d40534652a9a34"
+    },
+    {
+      "path": "party-1-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/1-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 10,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "2f11b9b21eddc0db14f57e10d5d62f5ee229a1b1d411bde4e3c57a7e715be9c1"
+    },
+    {
+      "path": "party-2-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/2-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 10,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "b517b437c40d0202b11ce157a1618d912b7f9376d433c413b10cc117a491b29c"
+    },
+    {
+      "path": "party-4-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/4-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 16,
+      "size": [
+        188,
+        200
+      ],
+      "sha256": "d12ab4bf8af4cf4c997c6fe2db71ae36d7228770918863b3f0ec892cfe3599b3"
+    },
+    {
+      "path": "party-5-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/5-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 12,
+      "size": [
+        176,
+        200
+      ],
+      "sha256": "850c2e4967ce56727016d6a31138877ab0857cbce86424df57a1be08c0de82ca"
+    },
+    {
+      "path": "party-6-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/6-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 40,
+      "size": [
+        498,
+        312
+      ],
+      "sha256": "067374880f2c59dcae282400315ef494e7f7f86b5cbbeb01fa4b8c81e9d6a633"
+    },
+    {
+      "path": "party-8-1.gif",
+      "source_url": "https://cdn2.cdnstep.com/Bbg3qTSiqHW8SyVDaOEm/8-1.png",
+      "page": "https://www.sigstick.com/pack/Bbg3qTSiqHW8SyVDaOEm-bubu-dudu-party",
+      "frames": 10,
+      "size": [
+        269,
+        291
+      ],
+      "sha256": "883276d6217733306042188477327ddc54bb2db36cff912b5c920ace01411a28"
+    },
+    {
+      "path": "yier-cuddle.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-cuddle.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 12,
+      "sha256": "39b62bfd92e9ec434967b84e6582d5762eee4a54cb4452a8a8b3174e97d1f04d"
+    },
+    {
+      "path": "yier-daze.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-daze.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        600,
+        600
+      ],
+      "frames": 3,
+      "sha256": "14ec185c615128408a5032918525bc29ea03b37061277ded7a429647dd53e3ad"
+    },
+    {
+      "path": "yier-desk.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-desk.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        600,
+        530
+      ],
+      "frames": 5,
+      "sha256": "6cffba03f5c2a25b18000d2493462c1a24c0f4492248b7bdca6531ba208e0090"
+    },
+    {
+      "path": "yier-keyboard.gif",
+      "source_url": "https://media1.tenor.com/m/vpEZ19aC5wwAAAAC/bubu-dudu-sseeyall.gif",
+      "page": "https://tenor.com/view/bubu-dudu-sseeyall-gif-13731785153636919052",
+      "frames": 16,
+      "size": [
+        404,
+        498
+      ],
+      "sha256": "a374fb5a45d63b2bb2cd04101795e13faa7ce5a51d913a057e75a459644e770c"
+    },
+    {
+      "path": "yier-laptop-hd.gif",
+      "source_url": "https://media1.tenor.com/m/uEjYldAlvXsAAAAC/bubu-dudu-sseeyall.gif",
+      "page": "https://tenor.com/view/bubu-dudu-sseeyall-gif-13279101639255768443",
+      "frames": 4,
+      "size": [
+        498,
+        498
+      ],
+      "sha256": "8b31c0a1cf4809736b26c258a3636d141e18cb3f100db6642cfcf303ffe8e818"
+    },
+    {
+      "path": "yier-poke.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-poke.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        295,
+        295
+      ],
+      "frames": 12,
+      "sha256": "b5a073cb20ab3c25df659fed105e59950c3961d01e4e4541e680ffdc3981a871"
+    },
+    {
+      "path": "yier-pout.gif",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-pout.gif",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "GIF",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 13,
+      "sha256": "a93ad259bc4bcbf2bd8c823e81bb9062f1255a47b1c0bc334ac6de8b3347fb42"
+    },
+    {
+      "path": "yier-rose.webp",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-rose.webp",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "WEBP",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 18,
+      "sha256": "0b239820810103002a9c48e12630f2066709a12c1de6b483baa2d6b569107973"
+    },
+    {
+      "path": "yier-sleep.gif",
+      "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/yier/yier-sleep.gif",
+      "page": "https://github.com/Away6v/oneno-pet",
+      "format": "GIF",
+      "size": [
+        960,
+        960
+      ],
+      "frames": 4,
+      "sha256": "fd21338f82b55ada9dc4f5bbcbcd39f9aa2b289ad8ffde5742d62cf1140aa1f5"
+    }
+  ]
+}

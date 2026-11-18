@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bubu-solo-v1",
+    "name": "布布 · v1 笔记本",
+    "description": "黄小B原作角色。布布安静待着、敲笔记本，做完了跳舞。",
+    "width": 144,
+    "states": {
+      "idle": [{"source":"bubu-daze.webp","frames":[0,0,1,2,0,0],"width":115,"height":136}],
+      "waving": [{"source":"bubu-rose.webp","frames":[0,4,9,14],"width":118}],
+      "jumping": [{"source":"bubu-daze.webp","frames":[0,1,2,1,0],"width":115,"height":136,"lift":[0,15,30,17,0]}],
+      "failed": [{"source":"bubu-pout.gif","frames":[0,1,3,4,6,7,9,11],"width":122}],
+      "waiting": [{"source":"bubu-desk.webp","frames":[0,1,2,3,4,5],"width":146}],
+      "running": [{"source":"laptop.gif","white":true,"frames":[0,1,2,4,6,8],"width":154}],
+      "review": [{"source":"party-1-1.gif","frames":[0,2,3,4,6,8],"width":119,"height":138}]
+    }
+  },
+  {
+    "id": "yier-solo-v1",
+    "name": "一二 · v1 粉色笔记本",
+    "description": "黄小B原作角色。一二安静待着、敲粉色笔记本，做完了跳舞。",
+    "width": 144,
+    "states": {
+      "idle": [{"source":"yier-daze.webp","frames":[0,0,1,2,0,0],"width":115,"height":136}],
+      "waving": [{"source":"yier-rose.webp","frames":[0,1,2,3],"width":118}],
+      "jumping": [{"source":"yier-daze.webp","frames":[0,1,2,1,0],"width":115,"height":136,"lift":[0,15,30,17,0]}],
+      "failed": [{"source":"yier-pout.gif","frames":[0,1,3,4,6,8,10,12],"width":128}],
+      "waiting": [{"source":"yier-desk.webp","frames":[0,1,2,3,4,3],"width":146}],
+      "running": [{"source":"yier-laptop-hd.gif","white":true,"erase":[[400,0,498,312]],"frames":[0,1,2,3,2,1],"width":154}],
+      "review": [{"source":"party-2-1.gif","frames":[0,2,3,4,6,8],"width":119,"height":138}]
+    }
+  },
+  {
+    "id": "yier-bubu-duo-v2",
+    "name": "一二和布布 · v2 双人办公",
+    "description": "黄小B原作角色。闲时贴贴，忙时一起敲电脑，做完一起跳舞。",
+    "width": 178,
+    "states": {
+      "idle": [{"source":"bubu-peck.gif","frames":[0,1,3,4,6,8],"width":157,"height":132}],
+      "waving": [{"source":"basket.gif","white":true,"frames":[0,1,2,3],"width":169}],
+      "jumping": [{"source":"jump.gif","white":true,"frames":[0,3,6,13,18],"width":154,"height":137,"lift":[0,4,13,6,0]}],
+      "failed": [{"source":"bubu-hug.webp","frames":[7,9,12,15,18,22,29,35],"width":154}],
+      "waiting": [{"source":"yier-poke.webp","frames":[0,2,4,6,8,10],"width":176}],
+      "running": [
+        {"source":"yier-laptop-hd.gif","white":true,"erase":[[400,0,498,312]],"frames":[0,1,2,3,2,1],"width":90,"center":50,"floor":178},
+        {"source":"laptop.gif","white":true,"frames":[1,3,5,6,8,0],"width":90,"center":142,"floor":178}
+      ],
+      "review": [{"source":"party-6-1.gif","white":true,"frames":[17,21,25,29,33,37],"width":175,"height":145}]
+    }
+  },
+  {
+    "id": "bubu-solo-v2",
+    "name": "布布 · v2 蓝色电脑",
+    "description": "黄小B原作角色。布布打瞌睡，用蓝色电脑办公，完成后戴墨镜跳舞。",
+    "width": 144,
+    "states": {
+      "idle": [{"source":"bubu-doze.gif","frames":[0,0,1,1,0,0],"width":143}],
+      "waving": [{"source":"bubu-rose.webp","frames":[0,4,9,14],"width":118}],
+      "jumping": [{"source":"bubu-daze.webp","frames":[0,1,2,1,0],"width":115,"height":136,"lift":[0,15,30,17,0]}],
+      "failed": [{"source":"bubu-pout.gif","frames":[0,1,3,4,6,7,9,11],"width":122}],
+      "waiting": [{"source":"bubu-desk.webp","frames":[0,1,2,3,4,5],"width":146}],
+      "running": [{"source":"laptop-alt.gif","white":true,"frames":[0,1,2,3,2,1],"width":156}],
+      "review": [{"source":"party-5-1.gif","frames":[0,2,4,6,8,10],"width":116,"height":138}]
+    }
+  },
+  {
+    "id": "yier-solo-v2",
+    "name": "一二 · v2 台式机",
+    "description": "黄小B原作角色。一二睡觉、敲台式机，完成后穿虎装跳舞。",
+    "width": 144,
+    "states": {
+      "idle": [{"source":"yier-sleep.gif","frames":[0,1,2,3,2,1],"width":147}],
+      "waving": [{"source":"yier-rose.webp","frames":[0,1,2,3],"width":118}],
+      "jumping": [{"source":"yier-daze.webp","frames":[0,1,2,1,0],"width":115,"height":136,"lift":[0,15,30,17,0]}],
+      "failed": [{"source":"yier-pout.gif","frames":[0,1,3,4,6,8,10,12],"width":128}],
+      "waiting": [{"source":"yier-desk.webp","frames":[0,1,2,3,4,3],"width":146}],
+      "running": [{"source":"yier-keyboard.gif","white":true,"erase":[[0,0,404,137]],"frames":[0,2,5,8,11,14],"width":156}],
+      "review": [{"source":"party-8-1.gif","frames":[0,2,3,4,6,8],"width":122,"height":138}]
+    }
+  },
+  {
+    "id": "yier-bubu-duo-v3",
+    "name": "一二和布布 · v3 陪着加班",
+    "description": "黄小B原作角色。平时靠着打盹，一二敲键盘时布布陪在旁边，完成后一起跳舞。",
+    "width": 176,
+    "states": {
+      "idle": [{"source":"yier-cuddle.webp","frames":[0,2,4,6,8,10],"width":159,"height":142}],
+      "waving": [{"source":"basket.gif","white":true,"frames":[0,1,2,3],"width":169}],
+      "jumping": [{"source":"jump.gif","white":true,"frames":[0,3,6,13,18],"width":154,"height":137,"lift":[0,4,13,6,0]}],
+      "failed": [{"source":"bubu-hug.webp","frames":[7,9,12,15,18,22,29,35],"width":154}],
+      "waiting": [{"source":"yier-poke.webp","frames":[0,2,4,6,8,10],"width":176}],
+      "running": [
+        {"source":"yier-keyboard.gif","white":true,"erase":[[0,0,404,137]],"frames":[0,2,5,8,11,14],"width":113,"center":62,"floor":178},
+        {"source":"bubu-daze.webp","frames":[0,0,1,2,0,0],"width":65,"height":89,"center":151,"floor":178}
+      ],
+      "review": [{"source":"party-4-1.gif","frames":[0,3,5,8,11,14],"width":149,"height":143}]
+    }
+  }
+]
