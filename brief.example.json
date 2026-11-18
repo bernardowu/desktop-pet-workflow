@@ -1,0 +1,24 @@
+{
+  "id": "ember-moth",
+  "displayName": "Ember Moth",
+  "description": "A quiet moth with folded paper wings.",
+  "target": "codex-local",
+  "atlasVersion": "v1",
+  "platforms": ["Windows", "macOS"],
+  "clientVersions": {"Windows": null, "macOS": null},
+  "style": "Flat paper with warm gray wings and a terracotta accent.",
+  "identityLocks": [
+    "Two dark oval eyes with the same spacing in every row.",
+    "The wings are attached, compact, and never hide the face in a frontal pose.",
+    "A single amber marking on its left wing makes this character asymmetric."
+  ],
+  "motion": {
+    "idle": "Blink and slightly flex the attached wings.",
+    "jumping": "Rise as a whole, then return to the same ground baseline.",
+    "working": "Lower the body and focus forward with small wing movements.",
+    "look": "Anchor the body and lead with a head turn before the wings follow."
+  },
+  "references": [],
+  "assetRights": "Record provenance and permitted distribution for each asset.",
+  "acceptance": "Inspect all state GIFs and document behavior on each supported client."
+}
