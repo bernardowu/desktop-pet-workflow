@@ -13,7 +13,7 @@ python package_app.py --bundle-pets runs/release-check/dist
 python test_packaged_app.py PATH_TO_OFFLINE_ARTIFACT --embedded --gui
 ```
 
-`package_native.py` 生成 Windows 和 macOS 通用的六款素材 ZIP。将解压出的各个角色目录放到 `CODEX_HOME/pets`，再在 Codex 里刷新。包内素材用于当地计算机自用。要发布含图 ZIP 或离线应用，请先核对公开再分发权限以及应保留的授权说明。
+`package_native.py` 生成 Windows 和 macOS 通用的原生桌宠 ZIP，自动包含当前清单。将解压出的各个角色目录放到 `CODEX_HOME/pets`，再在 Codex 里刷新。包内素材用于本机自用。要发布含图 ZIP 或离线应用，请先核对公开再分发权限以及应保留的授权说明。
 
 ## GitHub 发行
 

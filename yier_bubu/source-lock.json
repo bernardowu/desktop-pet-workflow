@@ -62,6 +62,18 @@
       "sha256": "0e67e1b1c9ff67bd4fafc7d8728685db72838a8abacb527ea41ee509e5b2b49b"
     },
     {
+      "path": "bubu-laptop-long.gif",
+      "source_url": "https://media1.tenor.com/m/4bSv-YGVwVMAAAAC/bubu-dudu.gif",
+      "page": "https://tenor.com/view/bubu-dudu-work-yawn-tired-gif-16263817640497496403",
+      "frames": 93,
+      "size": [
+        498,
+        498
+      ],
+      "sha256": "7bfe61544a3dfcc43e23e8d7b0840fe3986897a179d763aca41cb4ed5c14eb42",
+      "provenance": "repost"
+    },
+    {
       "path": "bubu-peck.gif",
       "source_url": "https://raw.githubusercontent.com/Away6v/oneno-pet/70db472a885653687dbd3935cbf82801d83154b8/public/assets/bubu/bubu-peck.gif",
       "page": "https://github.com/Away6v/oneno-pet",
@@ -197,6 +209,222 @@
         291
       ],
       "sha256": "883276d6217733306042188477327ddc54bb2db36cff912b5c920ace01411a28"
+    },
+    {
+      "path": "v03-duo-heart-cuddle.gif",
+      "source_url": "https://cdn2.cdnstep.com/nfUo2wf2I1inRdyxdosy/7-1.png",
+      "page": "https://www.sigstick.com/pack/nfUo2wf2I1inRdyxdosy-%E4%B8%80%E4%BA%8C%E7%AC%AC3%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 6,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "9bd0a944d1ff2208d03ebdebfbaf7201d339db7f91869624ac0d237e50d3058c",
+      "collection": "一二第3弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v07-bubu-yellow-pillow.gif",
+      "source_url": "https://cdn2.cdnstep.com/4H3XPEcdaFWmnWrszBHV/19-1.png",
+      "page": "https://www.sigstick.com/pack/4H3XPEcdaFWmnWrszBHV-%E4%B8%80%E4%BA%8C%E7%AC%AC7%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 16,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "83eadd0a66b5d152c971f669156f56708d419c8b01ef2e0aa752351937d05189",
+      "collection": "一二第7弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v07-duo-turn.gif",
+      "source_url": "https://cdn2.cdnstep.com/4H3XPEcdaFWmnWrszBHV/12-1.png",
+      "page": "https://www.sigstick.com/pack/4H3XPEcdaFWmnWrszBHV-%E4%B8%80%E4%BA%8C%E7%AC%AC7%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 12,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "b775faa3bcf3fbf72cb2931161b552b96d25a6c68606cd77d9770ca70616eec0",
+      "collection": "一二第7弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v08-duo-yes.gif",
+      "source_url": "https://cdn2.cdnstep.com/kkX2TvNNAvucXCaoSqZV/5-1.png",
+      "page": "https://www.sigstick.com/pack/kkX2TvNNAvucXCaoSqZV-%E4%B8%80%E4%BA%8C%E7%AC%AC8%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 9,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "527cc8b3f03f123a526b738b628aa3728112b346a5e1f0a73b3eef9c456c6de7",
+      "collection": "一二第8弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v08-yier-giraffe.gif",
+      "source_url": "https://cdn2.cdnstep.com/kkX2TvNNAvucXCaoSqZV/0-1.png",
+      "page": "https://www.sigstick.com/pack/kkX2TvNNAvucXCaoSqZV-%E4%B8%80%E4%BA%8C%E7%AC%AC8%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 20,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "efb3611a04a6526a4f8a681b9369fd26fcfbed48fa7a4bc30825c04868d5a1a9",
+      "collection": "一二第8弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v08-yier-thinking.gif",
+      "source_url": "https://cdn2.cdnstep.com/kkX2TvNNAvucXCaoSqZV/2-1.png",
+      "page": "https://www.sigstick.com/pack/kkX2TvNNAvucXCaoSqZV-%E4%B8%80%E4%BA%8C%E7%AC%AC8%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 13,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "bb95aeefa8cd429dd2d78e3e9728e377e6c33642f288afcea3afcf16e4a95ab8",
+      "collection": "一二第8弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v08-yier-typing.gif",
+      "source_url": "https://cdn2.cdnstep.com/kkX2TvNNAvucXCaoSqZV/22-1.png",
+      "page": "https://www.sigstick.com/pack/kkX2TvNNAvucXCaoSqZV-%E4%B8%80%E4%BA%8C%E7%AC%AC8%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 4,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "fb583c5a8de20765757e018cf2863c12faf8308ff5bb4b60dbcbdd6b6eabc8b0",
+      "collection": "一二第8弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v13-yier-hood-wave.gif",
+      "source_url": "https://cdn2.cdnstep.com/snIF4V6XemKd37CAQ1Hi/7-1.png",
+      "page": "https://www.sigstick.com/pack/snIF4V6XemKd37CAQ1Hi-%E4%B8%80%E4%BA%8C%E7%AC%AC13%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 14,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "960d076fe414df82142c829faa8b02bd55a088dbc55ad49a2965f144ba290bca",
+      "collection": "一二第13弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.douyin.com/video/7182014417805118755"
+    },
+    {
+      "path": "v16-bubu-rose.gif",
+      "source_url": "https://cdn2.cdnstep.com/jIwmeTDW90jg7K9GfRiZ/12-1.png",
+      "page": "https://www.sigstick.com/pack/jIwmeTDW90jg7K9GfRiZ-%E4%B8%80%E4%BA%8C%E7%AC%AC16%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 20,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "066b18c700421fb2f31afd95f5e8dc8057274b3e98de410fa8281517cbbd144c",
+      "collection": "一二第16弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.douyin.com/video/7381657265582902564"
+    },
+    {
+      "path": "v16-duo-surprise.gif",
+      "source_url": "https://cdn2.cdnstep.com/jIwmeTDW90jg7K9GfRiZ/14-1.png",
+      "page": "https://www.sigstick.com/pack/jIwmeTDW90jg7K9GfRiZ-%E4%B8%80%E4%BA%8C%E7%AC%AC16%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 17,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "9e22adf604006488ff10b766abc9e02672f0db11b70f85b83028edae788cbce6",
+      "collection": "一二第16弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.douyin.com/video/7381657265582902564"
+    },
+    {
+      "path": "v16-yier-cup.gif",
+      "source_url": "https://cdn2.cdnstep.com/jIwmeTDW90jg7K9GfRiZ/5-1.png",
+      "page": "https://www.sigstick.com/pack/jIwmeTDW90jg7K9GfRiZ-%E4%B8%80%E4%BA%8C%E7%AC%AC16%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 18,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "0192e8030db3f23bd26935ee8e78240f8b1ddbf9a294d65d5be52d415b894419",
+      "collection": "一二第16弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.douyin.com/video/7381657265582902564"
+    },
+    {
+      "path": "v17-bubu-spring.gif",
+      "source_url": "https://cdn2.cdnstep.com/mt1snW2hXYsfv7zMve3A/2-1.png",
+      "page": "https://www.sigstick.com/pack/mt1snW2hXYsfv7zMve3A-%E4%B8%80%E4%BA%8C%E7%AC%AC17%E5%BD%88-(%E7%86%8A%E8%B2%93%E4%B8%80%E4%BA%8C)-%40kal_pc",
+      "frames": 8,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "1dde13325d588f1f4da4f8192caa1f85a4834f2088bc6c8d7658b0a97a9f425a",
+      "collection": "一二第17弹",
+      "provenance": "collection-archive"
+    },
+    {
+      "path": "v18-bubu-celebrate.gif",
+      "source_url": "https://cdn2.cdnstep.com/GdkSADcQLjFuqFcsFfW1/5-1.png",
+      "page": "https://www.sigstick.com/pack/GdkSADcQLjFuqFcsFfW1-yier-bubu-18",
+      "frames": 7,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "10a98bd2c0f36e9fae036bfa00aae733f807602bcc2776084fa9e337bcc26d40",
+      "collection": "一二第18弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.sina.cn/media/2623471650"
+    },
+    {
+      "path": "v18-bubu-envelope.gif",
+      "source_url": "https://cdn2.cdnstep.com/GdkSADcQLjFuqFcsFfW1/3-1.png",
+      "page": "https://www.sigstick.com/pack/GdkSADcQLjFuqFcsFfW1-yier-bubu-18",
+      "frames": 23,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "dc69b23a321b44f6893587a3fa90d6d132192ccc3d311898618dca7b8de56c7b",
+      "collection": "一二第18弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.sina.cn/media/2623471650"
+    },
+    {
+      "path": "v18-bubu-sneeze.gif",
+      "source_url": "https://cdn2.cdnstep.com/GdkSADcQLjFuqFcsFfW1/4-1.png",
+      "page": "https://www.sigstick.com/pack/GdkSADcQLjFuqFcsFfW1-yier-bubu-18",
+      "frames": 22,
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "ae66160f42cd1fdbd5104f884b38350f1ce0cfa6fceb06d13a1ef4bd51e9762c",
+      "collection": "一二第18弹",
+      "provenance": "collection-archive",
+      "announcement": "https://www.sina.cn/media/2623471650"
+    },
+    {
+      "path": "v18-yier-tap-preview.gif",
+      "source_url": "https://wx4.sinaimg.cn/large/9c5f0022gy1iepdxaca4cg20jg0jgthz.gif",
+      "page": "https://weibo.com/2623471650/R6MuftVTl",
+      "frames": 24,
+      "size": [
+        700,
+        700
+      ],
+      "sha256": "8348d523327047af5ede85362a64a422b8d2b93e3674407c8d5ed3ea7ac51618",
+      "collection": "一二第18弹上架预告",
+      "provenance": "creator-post",
+      "announcement": "https://weibo.com/2623471650/R6MuftVTl"
     },
     {
       "path": "yier-cuddle.webp",

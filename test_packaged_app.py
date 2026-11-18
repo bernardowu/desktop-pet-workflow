@@ -50,7 +50,7 @@ def main():
                         "--bundled-only","--report",str(report),
                         "--gui-smoke" if args.gui else "--check"],check=True,timeout=50)
         result = json.loads(report.read_text("utf-8"))
-        if len(result["pets"]) != len(configurations()) or any(n<2 for n in result["pets"].values()):
+        if set(result["pets"]) != {pet["id"] for pet in configurations()} or any(n<2 for n in result["pets"].values()):
             raise ValueError("The frozen app did not load all animated pets.")
         if result["native_only"] != native:
             raise ValueError("Installer launched in the wrong mode.")

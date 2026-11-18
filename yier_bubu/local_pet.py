@@ -153,9 +153,13 @@ class PetWindow:
 
     def menu(self,event):
         menu = tk.Menu(self.root,tearoff=False)
-        for pet_id,item in self.catalog.items():
-            menu.add_radiobutton(label=item["name"],variable=self.choice,value=pet_id,
-                                 command=lambda chosen=pet_id:self.load_pet(chosen))
+        for character,label in (("yier","一二"),("bubu","布布"),("duo","一二和布布")):
+            group = tk.Menu(menu,tearoff=False)
+            for pet_id,item in reversed(self.catalog.items()):
+                if item["character"] == character:
+                    group.add_radiobutton(label=item["name"],variable=self.choice,value=pet_id,
+                                          command=lambda chosen=pet_id:self.load_pet(chosen))
+            menu.add_cascade(label=label,menu=group)
         menu.add_separator()
         menu.add_command(label="安装 Codex 原生桌宠",command=self.install_native)
         menu.add_command(label="退出本地桌宠",command=self.close)
@@ -203,7 +207,7 @@ def install_with_dialog(root, library):
     except (OSError,ValueError) as error:
         messagebox.showerror("安装遇到问题",str(error),parent=root)
     else:
-        messagebox.showinfo("六款已安装","请在 Codex 的设置 → Pets 中刷新并选择角色。",parent=root)
+        messagebox.showinfo("桌宠已安装","请在 Codex 的设置 → Pets 中刷新并选择角色。",parent=root)
 
 
 def prepare_with_dialog(root,library):
@@ -211,7 +215,7 @@ def prepare_with_dialog(root,library):
         return True
     if not messagebox.askokcancel(
         "准备桌宠素材",
-        "首次使用需要从已记录的公开来源下载表情，并在本机生成六款桌宠。任务内容不会发送。现在准备吗？",
+        "需要从已记录的公开来源下载缺少的表情，并在本机生成桌宠。任务内容不会发送。现在准备吗？",
         parent=root,
     ):
         return False

@@ -18,12 +18,16 @@ def main():
     parser.add_argument("--name",required=True,help="Example: bubu-blue-desk.gif")
     parser.add_argument("--page",required=True,help="Original or archived sticker page.")
     parser.add_argument("--url",required=True,help="Direct HTTPS image URL.")
+    parser.add_argument("--collection",help="Sticker series title, including its edition if known.")
+    parser.add_argument("--provenance",choices=("creator-post","collection-archive","repost"))
+    parser.add_argument("--announcement",help="Creator's public announcement for the identified series.")
     parser.add_argument("--cache",type=Path,default=Path("runs/yier-bubu-source"))
     args = parser.parse_args()
     if re.fullmatch(r"[a-z0-9][a-z0-9-]*\.(gif|png|webp)",args.name) is None:
         parser.error("Use a lowercase asset name with a GIF, PNG or WebP extension.")
+    links = (args.page,args.url,args.announcement)
     if any(urlparse(value).scheme != "https" or not urlparse(value).netloc
-           for value in (args.page,args.url)):
+           for value in links if value is not None):
         parser.error("Provide HTTPS page and media URLs.")
     if args.file.stat().st_size > 8*1024*1024:
         parser.error("Source must be 8 MiB or smaller.")
@@ -35,6 +39,10 @@ def main():
         record = {"path":args.name,"source_url":args.url,"page":args.page,
                   "frames":image.n_frames,"size":list(image.size),
                   "sha256":sha256(args.file.read_bytes()).hexdigest()}
+        for key in ("collection","provenance","announcement"):
+            value = getattr(args,key)
+            if value:
+                record[key] = value
     catalog = json.loads(lock.read_text("utf-8"))
     if any(item["path"] == args.name for item in catalog["assets"]):
         parser.error("That asset name is already pinned. Use a new name.")

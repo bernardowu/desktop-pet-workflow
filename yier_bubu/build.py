@@ -1,4 +1,4 @@
-"""Build the six Codex pets from the pinned, separately supplied sticker files."""
+"""Build the Codex pets from the pinned, separately supplied sticker files."""
 import argparse
 from bisect import bisect_right
 from concurrent.futures import ThreadPoolExecutor

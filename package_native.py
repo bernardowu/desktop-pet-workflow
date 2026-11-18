@@ -1,4 +1,4 @@
-"""Export all six already checked native pets as one Windows/macOS archive."""
+"""Export all checked native pets as one Windows/macOS archive."""
 import argparse
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
@@ -10,7 +10,7 @@ from yier_bubu.build import configurations
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("bundles",type=Path,help="Folder containing six pet bundle folders.")
+    parser.add_argument("bundles",type=Path,help="Folder containing the catalog's pet bundles.")
     parser.add_argument("--out",type=Path,default=Path("dist"))
     args = parser.parse_args()
     files = [bundle_files(args.bundles/item["id"]) for item in configurations()]
